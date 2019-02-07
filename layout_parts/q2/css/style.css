@@ -1,5 +1,31 @@
 @charset "UTF-8";
 
-/* 回答はここに書いてね */
-
+/* 回答はここに書いてね */s
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.q2 {
+  width: 900px;
+  margin: auto;
+  padding: 20px;
+  background-color: #eff3f4;
+}
+.q2_gazou1 {
+  float: left;
+  margin-right: 20px;
+}
+.q2_gazou2 {
+  float: right;
+  margin-left: 20px;
+}
+.q2_text {
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
+.img1 {
+  margin: 20px;
+}
 /* 回答はここに書いてね */
