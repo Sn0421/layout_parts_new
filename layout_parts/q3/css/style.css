@@ -21,10 +21,10 @@
   border: 1px solid #dedede;
   vertical-align: middle;
 }
-table.q3_table tr:nth-child(2n+0){
+.q3_table tr:nth-child(2n){
   background-color: #ECF1F2;
 }
-table.q3_table tbody tr:last-child{
+.q3_table tbody tr:last-child{
   border-top: 2px dashed #000;
 }
 /* 回答はここに書いてね */
